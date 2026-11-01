@@ -60,11 +60,13 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Lever Jobs Scraper](lever-jobs-scraper/) | All Jobs from Any jobs.lever.co Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/lever-jobs-scraper) |
 | [Ashby Jobs Scraper](ashby-jobs-scraper/) | All Jobs from Any jobs.ashbyhq.com Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/ashby-jobs-scraper) |
 | [Workday Jobs Scraper](workday-jobs-scraper/) | All Jobs from myworkdayjobs.com Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
+| [Remote Jobs Scraper](remote-jobs-scraper/) | Remote OK, We Work Remotely, Jobicy | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
 
 ## E-commerce
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
+| [Shopify Products Scraper](shopify-products-scraper/) | Prices, Variants, Stock & Images | $0.50 | [Run on Apify](https://apify.com/pipiagent/shopify-products-scraper) |
 | [AliExpress Search Scraper](aliexpress-search-scraper/) | Products, Prices, Orders & Ratings | $1.50 | [Run on Apify](https://apify.com/pipiagent/aliexpress-search-scraper) |
 | [Alibaba Search Scraper](alibaba-search-scraper/) | Wholesale Products, Prices & Suppliers | $1.50 | [Run on Apify](https://apify.com/pipiagent/alibaba-search-scraper) |
 
