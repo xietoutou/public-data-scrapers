@@ -1,0 +1,8 @@
+{
+    "mode": "shortReviews",
+    "subjectUrls": [
+        "https://movie.douban.com/subject/1292052/",
+        "https://movie.douban.com/subject/26266893/"
+    ],
+    "maxItems": 300
+}

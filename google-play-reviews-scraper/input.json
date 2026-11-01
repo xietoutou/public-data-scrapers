@@ -1,0 +1,8 @@
+{
+    "mode": "reviews",
+    "appIds": [
+        "com.spotify.music"
+    ],
+    "sort": "newest",
+    "maxItems": 1000
+}

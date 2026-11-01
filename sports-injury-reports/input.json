@@ -1,0 +1,11 @@
+{
+    "leagues": [
+        "nfl",
+        "nba"
+    ],
+    "teams": [
+        "Chiefs",
+        "Lakers",
+        "BOS"
+    ]
+}

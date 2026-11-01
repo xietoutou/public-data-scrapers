@@ -1,0 +1,9 @@
+{
+    "mode": "posts",
+    "channels": [
+        "telegram",
+        "durov"
+    ],
+    "maxItemsPerChannel": 200,
+    "maxItems": 400
+}

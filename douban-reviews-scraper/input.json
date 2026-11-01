@@ -1,0 +1,8 @@
+{
+    "subjectUrls": [
+        "https://movie.douban.com/subject/1292052/",
+        "https://book.douban.com/subject/2567698/"
+    ],
+    "reviewType": "shortReviews",
+    "maxItems": 300
+}

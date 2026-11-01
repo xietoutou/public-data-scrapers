@@ -1,0 +1,9 @@
+{
+    "careerPages": [
+        "https://job-boards.greenhouse.io/airbnb",
+        "https://jobs.lever.co/spotify",
+        "https://jobs.ashbyhq.com/openai",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+    ],
+    "maxJobsPerCompany": 10
+}

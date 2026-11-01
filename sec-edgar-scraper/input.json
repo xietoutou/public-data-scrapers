@@ -1,0 +1,12 @@
+{
+    "mode": "filings",
+    "companies": [
+        "AAPL",
+        "TSLA",
+        "Microsoft"
+    ],
+    "formTypes": [
+        "8-K"
+    ],
+    "maxItemsPerQuery": 20
+}

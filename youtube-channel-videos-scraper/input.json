@@ -1,0 +1,8 @@
+{
+    "channelUrls": [
+        "@GoogleDevelopers",
+        "https://www.youtube.com/@MrBeast"
+    ],
+    "maxItemsPerQuery": 500,
+    "includeShorts": true
+}

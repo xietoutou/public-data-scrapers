@@ -1,0 +1,13 @@
+{
+    "searchTerms": [
+        "nike, adidas, puma"
+    ],
+    "dataTypes": [
+        "interestOverTime",
+        "interestByRegion"
+    ],
+    "geos": [
+        "US"
+    ],
+    "timeRange": "past5Years"
+}

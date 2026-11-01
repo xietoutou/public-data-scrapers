@@ -1,0 +1,8 @@
+{
+    "careerPages": [
+        "airbnb",
+        "stripe",
+        "https://job-boards.greenhouse.io/gitlab"
+    ],
+    "maxJobsPerCompany": 10
+}

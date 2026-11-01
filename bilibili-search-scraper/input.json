@@ -1,0 +1,9 @@
+{
+    "searchQueries": [
+        "耐克",
+        "Nike"
+    ],
+    "sortOrder": "pubdate",
+    "maxItemsPerQuery": 200,
+    "maxItems": 400
+}

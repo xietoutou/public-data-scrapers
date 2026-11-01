@@ -1,0 +1,8 @@
+{
+    "mode": "games",
+    "leagues": [
+        "nba",
+        "eng.1"
+    ],
+    "dateRange": "last7Days"
+}

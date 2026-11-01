@@ -1,0 +1,9 @@
+{
+    "mode": "search",
+    "searchQueries": [
+        "Tesla",
+        "\"Elon Musk\" interview"
+    ],
+    "timeRange": "7d",
+    "maxItems": 200
+}
