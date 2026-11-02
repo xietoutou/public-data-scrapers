@@ -9,6 +9,8 @@ Use it to find the Shorts that went viral in your niche, to track what competito
 - **No API key, no login and no proxy setup.** Press Start and get data.
 - **Low price.** $1 per 1,000 Shorts.
 
+**Step-by-step tutorial:** [How to Collect YouTube Shorts Data for a Niche (Views, Likes, Publish Dates) Without the API Quota](https://dev.to/frank0306_2838afa1791aac9/how-to-collect-youtube-shorts-data-for-a-niche-views-likes-publish-dates-without-the-api-quota-1m18)
+
 **Run it online, without code:** [YouTube Shorts Scraper - Views, Likes, Channels & Hashtags](https://apify.com/pipiagent/youtube-shorts-scraper) on Apify (free plan available).
 
 ## Run it from Python
