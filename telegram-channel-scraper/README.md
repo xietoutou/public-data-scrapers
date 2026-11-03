@@ -30,6 +30,8 @@ python example.py
 
 You can also paste links to single posts and get exactly those posts.
 
+**Step-by-step tutorial:** [How to Export Public Telegram Channel Posts to CSV (Text, Views, Dates, Links) Without an Account or API Key](https://dev.to/frank0306_2838afa1791aac9/how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-17kg)
+
 ## Input examples
 
 Get the newest 200 posts of each channel:

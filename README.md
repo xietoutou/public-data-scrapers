@@ -97,6 +97,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [How to Export Google Play Reviews of Any App to CSV or JSON (No API Key)](https://dev.to/frank0306_2838afa1791aac9/how-to-export-google-play-reviews-of-any-app-to-csv-or-json-no-api-key-15pe)
 - [How to Compare Alibaba Wholesale Prices and MOQs Across Hundreds of Suppliers in a Spreadsheet](https://dev.to/frank0306_2838afa1791aac9/how-to-compare-alibaba-wholesale-prices-and-moqs-across-hundreds-of-suppliers-in-a-spreadsheet-2pf8)
 - [How to Collect YouTube Shorts Data for a Niche (Views, Likes, Publish Dates) Without the API Quota](https://dev.to/frank0306_2838afa1791aac9/how-to-collect-youtube-shorts-data-for-a-niche-views-likes-publish-dates-without-the-api-quota-1m18)
+- [How to Export Public Telegram Channel Posts to CSV (Text, Views, Dates, Links) Without an Account or API Key](https://dev.to/frank0306_2838afa1791aac9/how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-17kg)
 
 ## Questions and bugs
 

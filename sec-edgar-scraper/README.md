@@ -178,7 +178,7 @@ Set a maximum charge per run in the run options and the Actor stops when it is r
 
 - **Full-text search covers 2001 onward** and returns at most 10,000 documents per search, ordered by relevance. Narrow the dates or form types to get everything. When several documents of one filing match, the filing is saved once.
 - **Financials come from XBRL**, which US companies have filed since about 2009 to 2011. Funds, foreign private issuers filing 20-F and many very small companies have little or no XBRL data.
-- **Periods are calendar periods.** The SEC aligns each number to the nearest calendar quarter or year (`period`), so Apple's fiscal Q3 2026 appears as CY2026Q2. `fiscalYear` and `fiscalPeriod` show the company's own labels.
+- **Periods are calendar periods.** The SEC aligns each number to the nearest calendar quarter or year (`period`), so Apple's fiscal Q3 2026 appears as CY2026Q2. `fiscalYear` and `fiscalPeriod` are the fiscal year and period of the report the number was taken from, so they can be a year or two later than the period itself (the SEC uses the latest report that states the number).
 - **Fourth quarters are often missing** in quarterly mode, because most companies report the fourth quarter only inside the annual report. Use annual minus the first three quarters.
 - **A number is empty when the company does not report it** under the standard name, for example banks have no gross profit. Some companies use their own custom tags.
 - **Companies without a ticker** (private funds, some subsidiaries) need their CIK number. You can find it on the company's EDGAR page.
