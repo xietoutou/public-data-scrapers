@@ -66,7 +66,7 @@ Products on sale between 20 and 100, published in the last 30 days:
 
 ```json
 {
-    "storeUrls": ["gymshark.com"],
+    "storeUrls": ["colourpop.com"],
     "onSaleOnly": true,
     "minPrice": "20",
     "maxPrice": "100",

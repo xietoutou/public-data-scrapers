@@ -28,6 +28,8 @@ python example.py
 | App details | One app in one country | Title, developer, rating, number of ratings, price, category, version, release notes, last update, size, languages, description, screenshots |
 | Search | One app | The same fields as app details, plus the position in the search results |
 
+**Step-by-step tutorial:** [How to Compare iOS App Store Reviews Across Countries After a Release (Python + pandas)](https://dev.to/frank0306_2838afa1791aac9/how-to-compare-ios-app-store-reviews-across-countries-after-a-release-python-pandas-411m)
+
 ## Input examples
 
 The newest 500 reviews of an app in the United States:
