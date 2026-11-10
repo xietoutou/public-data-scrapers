@@ -61,6 +61,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Ashby Jobs Scraper](ashby-jobs-scraper/) | All Jobs from Any jobs.ashbyhq.com Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/ashby-jobs-scraper) |
 | [Workday Jobs Scraper](workday-jobs-scraper/) | All Jobs from myworkdayjobs.com Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
 | [Remote Jobs Scraper](remote-jobs-scraper/) | Remote OK, We Work Remotely, Jobicy | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
+| [Arbeitsagentur Jobs Scraper](arbeitsagentur-jobs-scraper/) | German Jobs with Salaries | $1.00 | [Run on Apify](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) |
 
 ## E-commerce
 
