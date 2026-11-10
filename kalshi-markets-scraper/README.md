@@ -1,4 +1,4 @@
-# Kalshi Prediction Market Scraper
+# Kalshi Scraper
 
 Get live odds, volume, trades and price history from [Kalshi](https://kalshi.com), the largest regulated prediction market in the US. Use it for market research, odds tracking, forecasting models, arbitrage screening against other prediction markets, or to give an AI agent real-time probabilities.
 
@@ -6,7 +6,7 @@ Get live odds, volume, trades and price history from [Kalshi](https://kalshi.com
 - **Clean results, most active first.** Results are sorted by 24h volume by default, and auto-generated parlay markets that flood the raw API are left out.
 - **No API key, no login.** Press Start and get data.
 
-**Run it online, without code:** [Kalshi Prediction Market Scraper - Odds, Volume, Trades](https://apify.com/pipiagent/kalshi-markets-scraper) on Apify (free plan available).
+**Run it online, without code:** [Kalshi Scraper - Prediction Market Odds, Order Books & Trades](https://apify.com/pipiagent/kalshi-markets-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
@@ -110,4 +110,4 @@ Set a maximum charge per run in the run options and the Actor stops when it is r
 
 ---
 
-Full documentation, all input options and a free trial: **[Kalshi Prediction Market Scraper on Apify](https://apify.com/pipiagent/kalshi-markets-scraper)**
+Full documentation, all input options and a free trial: **[Kalshi Scraper on Apify](https://apify.com/pipiagent/kalshi-markets-scraper)**

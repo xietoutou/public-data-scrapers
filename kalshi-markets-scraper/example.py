@@ -1,4 +1,4 @@
-"""Kalshi Prediction Market Scraper: run it from Python and save the results to a CSV file.
+"""Kalshi Scraper: run it from Python and save the results to a CSV file.
 
 Store page: https://apify.com/pipiagent/kalshi-markets-scraper
 Setup: pip install apify-client

@@ -1,4 +1,4 @@
-"""Google Play Store Reviews Scraper: run it from Python and save the results to a CSV file.
+"""Google Play Reviews Scraper: run it from Python and save the results to a CSV file.
 
 Store page: https://apify.com/pipiagent/google-play-reviews-scraper
 Setup: pip install apify-client

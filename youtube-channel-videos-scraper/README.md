@@ -10,6 +10,8 @@ Use it to audit a competitor's channel, to track what creators publish, to build
 - **No API key, no login and no proxy setup.**
 - **Low price.** $1 per 1,000 videos.
 
+**Step-by-step tutorial:** [How to Export a YouTube Channel's Full Upload History and Find Its Best-Performing Topics](https://dev.to/frank0306_2838afa1791aac9/how-to-export-a-youtube-channels-full-upload-history-and-find-its-best-performing-topics-2i1e)
+
 **Run it online, without code:** [YouTube Channel Videos Scraper - All Uploads with Stats](https://apify.com/pipiagent/youtube-channel-videos-scraper) on Apify (free plan available).
 
 ## Run it from Python

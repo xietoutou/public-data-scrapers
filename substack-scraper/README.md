@@ -16,7 +16,7 @@ Use it for media monitoring, competitor and creator research, finding newsletter
 - **No login, no API key, no proxy.**
 - **Low price.** $1 per 1,000 results.
 
-**Run it online, without code:** [Substack Scraper - Posts, Full Text, Comments & Rankings](https://apify.com/pipiagent/substack-scraper) on Apify (free plan available).
+**Run it online, without code:** [Substack Scraper - Posts, Comments, Leaderboards & Subscribers](https://apify.com/pipiagent/substack-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

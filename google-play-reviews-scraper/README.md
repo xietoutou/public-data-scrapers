@@ -1,4 +1,4 @@
-# Google Play Store Reviews Scraper
+# Google Play Reviews Scraper
 
 Extract app reviews from the [Google Play Store](https://play.google.com/store/apps), together with app details and app search results. Product teams use it to find out what users complain about, marketers use it to watch competitors, and researchers use it to collect review text for sentiment analysis.
 
@@ -9,7 +9,7 @@ Extract app reviews from the [Google Play Store](https://play.google.com/store/a
 - **No login and no proxy needed.** Press Start and get data.
 - **Low price.** $0.20 per 1,000 results.
 
-**Run it online, without code:** [Google Play Store Reviews Scraper - Android App Reviews](https://apify.com/pipiagent/google-play-reviews-scraper) on Apify (free plan available).
+**Run it online, without code:** [Google Play Reviews Scraper - Play Store & Android App Reviews](https://apify.com/pipiagent/google-play-reviews-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
@@ -181,4 +181,4 @@ Set a maximum charge per run in the run options and the Actor stops when it is r
 
 ---
 
-Full documentation, all input options and a free trial: **[Google Play Store Reviews Scraper on Apify](https://apify.com/pipiagent/google-play-reviews-scraper)**
+Full documentation, all input options and a free trial: **[Google Play Reviews Scraper on Apify](https://apify.com/pipiagent/google-play-reviews-scraper)**

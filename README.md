@@ -26,7 +26,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Google Play Store Reviews Scraper](google-play-reviews-scraper/) | Android App Reviews | $0.20 | [Run on Apify](https://apify.com/pipiagent/google-play-reviews-scraper) |
+| [Google Play Reviews Scraper](google-play-reviews-scraper/) | Play Store & Android App Reviews | $0.20 | [Run on Apify](https://apify.com/pipiagent/google-play-reviews-scraper) |
 | [App Store Reviews Scraper](app-store-reviews-scraper/) | iOS & Apple App Reviews by Country | $0.25 | [Run on Apify](https://apify.com/pipiagent/app-store-reviews-scraper) |
 
 ## News, newsletters and trends
@@ -35,14 +35,14 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 |---|---|---|---|
 | [Google News Scraper](google-news-scraper/) | Search, Topics, Date Range & Real Links | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-news-scraper) |
 | [Google Trends Scraper](google-trends-scraper/) | Interest, Regions, Related & Trending | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-trends-scraper) |
-| [Substack Scraper](substack-scraper/) | Posts, Full Text, Comments & Rankings | $1.00 | [Run on Apify](https://apify.com/pipiagent/substack-scraper) |
+| [Substack Scraper](substack-scraper/) | Posts, Comments, Leaderboards & Subscribers | $1.00 | [Run on Apify](https://apify.com/pipiagent/substack-scraper) |
 
 ## Finance and prediction markets
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [SEC EDGAR Scraper](sec-edgar-scraper/) | Filings, Full-Text Search & Financials | $1.00 | [Run on Apify](https://apify.com/pipiagent/sec-edgar-scraper) |
-| [Kalshi Prediction Market Scraper](kalshi-markets-scraper/) | Odds, Volume, Trades | $1.00 | [Run on Apify](https://apify.com/pipiagent/kalshi-markets-scraper) |
+| [Kalshi Scraper](kalshi-markets-scraper/) | Prediction Market Odds, Order Books & Trades | $1.00 | [Run on Apify](https://apify.com/pipiagent/kalshi-markets-scraper) |
 
 ## Sports
 
@@ -99,6 +99,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [How to Collect YouTube Shorts Data for a Niche (Views, Likes, Publish Dates) Without the API Quota](https://dev.to/frank0306_2838afa1791aac9/how-to-collect-youtube-shorts-data-for-a-niche-views-likes-publish-dates-without-the-api-quota-1m18)
 - [How to Export Public Telegram Channel Posts to CSV (Text, Views, Dates, Links) Without an Account or API Key](https://dev.to/frank0306_2838afa1791aac9/how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-17kg)
 - [How to Compare iOS App Store Reviews Across Countries After a Release (Python + pandas)](https://dev.to/frank0306_2838afa1791aac9/how-to-compare-ios-app-store-reviews-across-countries-after-a-release-python-pandas-411m)
+- [How to Export a YouTube Channel's Full Upload History and Find Its Best-Performing Topics](https://dev.to/frank0306_2838afa1791aac9/how-to-export-a-youtube-channels-full-upload-history-and-find-its-best-performing-topics-2i1e)
 
 ## Questions and bugs
 
