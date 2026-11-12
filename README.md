@@ -18,7 +18,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [YouTube Search Scraper](youtube-search-scraper/) | Videos by Keyword, Date & Views | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-search-scraper) |
 | [YouTube Channel Videos Scraper](youtube-channel-videos-scraper/) | All Uploads with Stats | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-channel-videos-scraper) |
 | [YouTube Shorts Scraper](youtube-shorts-scraper/) | Views, Likes, Channels & Hashtags | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-shorts-scraper) |
-| [YouTube Playlist Scraper](youtube-playlist-scraper/) | All Videos of Any Playlist | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-playlist-scraper) |
+| [YouTube Playlist Scraper](youtube-playlist-scraper/) | Export Playlist Videos to CSV | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-playlist-scraper) |
 | [YouTube Comments Scraper](youtube-comments-scraper/) | Comments & Replies of Any Video | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-comments-scraper) |
 | [Telegram Channel Scraper](telegram-channel-scraper/) | Posts, Messages, Views & Reactions | $1.00 | [Run on Apify](https://apify.com/pipiagent/telegram-channel-scraper) |
 
@@ -27,7 +27,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [Google Play Reviews Scraper](google-play-reviews-scraper/) | Play Store & Android App Reviews | $0.20 | [Run on Apify](https://apify.com/pipiagent/google-play-reviews-scraper) |
-| [App Store Reviews Scraper](app-store-reviews-scraper/) | iOS & Apple App Reviews by Country | $0.25 | [Run on Apify](https://apify.com/pipiagent/app-store-reviews-scraper) |
+| [App Store Reviews Scraper](app-store-reviews-scraper/) | Export iPhone & iOS Reviews to CSV | $0.25 | [Run on Apify](https://apify.com/pipiagent/app-store-reviews-scraper) |
 
 ## News, newsletters and trends
 
@@ -41,14 +41,14 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [SEC EDGAR Scraper](sec-edgar-scraper/) | Filings, Full-Text Search & Financials | $1.00 | [Run on Apify](https://apify.com/pipiagent/sec-edgar-scraper) |
+| [SEC EDGAR Scraper](sec-edgar-scraper/) | Filings, Full-Text Search & XBRL Financials | $1.00 | [Run on Apify](https://apify.com/pipiagent/sec-edgar-scraper) |
 | [Kalshi Scraper](kalshi-markets-scraper/) | Prediction Market Odds, Order Books & Trades | $1.00 | [Run on Apify](https://apify.com/pipiagent/kalshi-markets-scraper) |
 
 ## Sports
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [ESPN Scraper](espn-scraper/) | Scores, Box Scores, Standings, Rosters & News | $1.00 | [Run on Apify](https://apify.com/pipiagent/espn-scraper) |
+| [ESPN Scraper](espn-scraper/) | NBA & NFL Box Scores, Player Stats & Standings | $1.00 | [Run on Apify](https://apify.com/pipiagent/espn-scraper) |
 | [Sports Injury Reports](sports-injury-reports/) | NFL, NBA, MLB, NHL Injuries | $0.50 | [Run on Apify](https://apify.com/pipiagent/sports-injury-reports) |
 
 ## Jobs
@@ -78,13 +78,13 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Website Contact Scraper](website-contact-scraper/) | Emails, Phones & Social Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-contact-scraper) |
 | [Website Email Extractor](website-email-extractor/) | Find Emails on Any Website List | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
 | [Domain Checker](domain-checker/) | Bulk Availability, WHOIS (RDAP), DNS & SSL | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-checker) |
-| [Domain Availability Checker](domain-availability-checker/) | Bulk Check Any Extension | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-availability-checker) |
+| [Domain Availability Checker](domain-availability-checker/) | Bulk Domain Name Checker | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-availability-checker) |
 
 ## Chinese platforms
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Weibo Scraper](weibo-scraper/) | Hot Search, Trending Posts, Comments & Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-scraper) |
+| [Weibo Scraper](weibo-scraper/) | Hot Search, Posts, Comments & User Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-scraper) |
 | [Weibo Hot Search Scraper](weibo-hot-search-scraper/) | Trending Topics in China | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-hot-search-scraper) |
 | [Weibo Comments Scraper](weibo-comments-scraper/) | Comments & Replies of Any Post | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-comments-scraper) |
 | [Bilibili Scraper](bilibili-scraper/) | Videos, Creators, Comments & Danmaku | $3.00 | [Run on Apify](https://apify.com/pipiagent/bilibili-scraper) |
@@ -101,6 +101,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [How to Export Public Telegram Channel Posts to CSV (Text, Views, Dates, Links) Without an Account or API Key](https://dev.to/frank0306_2838afa1791aac9/how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-17kg)
 - [How to Compare iOS App Store Reviews Across Countries After a Release (Python + pandas)](https://dev.to/frank0306_2838afa1791aac9/how-to-compare-ios-app-store-reviews-across-countries-after-a-release-python-pandas-411m)
 - [How to Export a YouTube Channel's Full Upload History and Find Its Best-Performing Topics](https://dev.to/frank0306_2838afa1791aac9/how-to-export-a-youtube-channels-full-upload-history-and-find-its-best-performing-topics-2i1e)
+- [Track Kalshi Prediction Market Odds in Python (Fed Rate Probabilities, Volume and Price History)](https://dev.to/frank0306_2838afa1791aac9/track-kalshi-prediction-market-odds-in-python-fed-rate-probabilities-volume-and-price-history-2iip)
 
 ## Questions and bugs
 

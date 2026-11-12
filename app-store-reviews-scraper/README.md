@@ -8,7 +8,7 @@ Extract app reviews from the [Apple App Store](https://apps.apple.com), together
 - **No login and no proxy needed.** Press Start and get data.
 - **Low price.** $0.25 per 1,000 results.
 
-**Run it online, without code:** [App Store Reviews Scraper - iOS & Apple App Reviews by Country](https://apify.com/pipiagent/app-store-reviews-scraper) on Apify (free plan available).
+**Run it online, without code:** [App Store Reviews Scraper - Export iPhone & iOS Reviews to CSV](https://apify.com/pipiagent/app-store-reviews-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

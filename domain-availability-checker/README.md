@@ -11,7 +11,7 @@ Use it to brainstorm brand names across many extensions, to find names that are 
 - **No API key, no login, no proxy.**
 - **Low price.** $2 per 1,000 domains. Invalid inputs are free.
 
-**Run it online, without code:** [Domain Availability Checker - Bulk Check Any Extension](https://apify.com/pipiagent/domain-availability-checker) on Apify (free plan available).
+**Run it online, without code:** [Domain Availability Checker - Bulk Domain Name Checker](https://apify.com/pipiagent/domain-availability-checker) on Apify (free plan available).
 
 ## Run it from Python
 

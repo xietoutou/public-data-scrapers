@@ -11,7 +11,7 @@ Use it to save a course or tutorial series as a table, to analyze a creator's se
 - **No API key, no login and no proxy setup.**
 - **Low price.** $1 per 1,000 videos.
 
-**Run it online, without code:** [YouTube Playlist Scraper - All Videos of Any Playlist](https://apify.com/pipiagent/youtube-playlist-scraper) on Apify (free plan available).
+**Run it online, without code:** [YouTube Playlist Scraper - Export Playlist Videos to CSV](https://apify.com/pipiagent/youtube-playlist-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

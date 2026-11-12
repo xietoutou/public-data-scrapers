@@ -26,6 +26,8 @@ python example.py
 | **Trades** | One executed trade | Time, price, number of contracts, taker side |
 | **Price history** | One candle | Open, high, low, close, volume, open interest per 1 minute, 1 hour or 1 day |
 
+**Step-by-step tutorial:** [Track Kalshi Prediction Market Odds in Python (Fed Rate Probabilities, Volume and Price History)](https://dev.to/frank0306_2838afa1791aac9/track-kalshi-prediction-market-odds-in-python-fed-rate-probabilities-volume-and-price-history-2iip)
+
 ## Input examples
 
 The 50 most active crypto and economics markets:

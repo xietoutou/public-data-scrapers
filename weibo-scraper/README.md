@@ -10,7 +10,7 @@ Use it to track what is trending in China, to measure the reaction to a post or 
 - **No login, no cookie and no proxy needed.** Press Start and get data.
 - **Low price.** $5 per 1,000 results.
 
-**Run it online, without code:** [Weibo Scraper - Hot Search, Trending Posts, Comments & Profiles](https://apify.com/pipiagent/weibo-scraper) on Apify (free plan available).
+**Run it online, without code:** [Weibo Scraper - Hot Search, Posts, Comments & User Profiles](https://apify.com/pipiagent/weibo-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

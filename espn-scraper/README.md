@@ -9,7 +9,7 @@ Get sports data from ESPN's public website: scores and schedules, box scores wit
 - **No login, no API key, no proxy.** Press Start and get data.
 - **Low price.** $1.00 per 1,000 results, no start fee.
 
-**Run it online, without code:** [ESPN Scraper - Scores, Box Scores, Standings, Rosters & News](https://apify.com/pipiagent/espn-scraper) on Apify (free plan available).
+**Run it online, without code:** [ESPN Scraper - NBA & NFL Box Scores, Player Stats & Standings](https://apify.com/pipiagent/espn-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

@@ -14,7 +14,7 @@ Use it for investment research, monitoring competitors and portfolio companies, 
 - **No API key, no login, no proxy.**
 - **Low price.** $1 per 1,000 results.
 
-**Run it online, without code:** [SEC EDGAR Scraper - Filings, Full-Text Search & Financials](https://apify.com/pipiagent/sec-edgar-scraper) on Apify (free plan available).
+**Run it online, without code:** [SEC EDGAR Scraper - Filings, Full-Text Search & XBRL Financials](https://apify.com/pipiagent/sec-edgar-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
