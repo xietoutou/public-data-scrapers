@@ -13,7 +13,7 @@ Use it for job alerts and job search in Germany, recruiting and sourcing, labour
 - **No login, no API key, no proxy.**
 - **Low price.** $1.00 per 1,000 jobs.
 
-**Run it online, without code:** [Arbeitsagentur Jobs Scraper - German Jobs with Salaries](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) on Apify (free plan available).
+**Run it online, without code:** [Arbeitsagentur Jobs Scraper - German Jobs from Bundesagentur](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

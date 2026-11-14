@@ -8,7 +8,7 @@ Extract product listings from [Alibaba.com](https://www.alibaba.com), the larges
 - **No login and no proxy needed.** Press Start and get data. 3,000 products take about one minute.
 - **Low price.** $1.50 per 1,000 results.
 
-**Run it online, without code:** [Alibaba Search Scraper - Wholesale Products, Prices & Suppliers](https://apify.com/pipiagent/alibaba-search-scraper) on Apify (free plan available).
+**Run it online, without code:** [Alibaba Search Scraper - Wholesale Products & China Suppliers](https://apify.com/pipiagent/alibaba-search-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

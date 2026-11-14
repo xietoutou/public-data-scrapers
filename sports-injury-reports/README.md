@@ -10,7 +10,7 @@ Fantasy players, betting model builders, sports apps, newsletters and analysts u
 - **No login, no API key, no proxy.**
 - **Low price.** $0.50 per 1,000 injured players.
 
-**Run it online, without code:** [Sports Injury Reports - NFL, NBA, MLB, NHL Injuries](https://apify.com/pipiagent/sports-injury-reports) on Apify (free plan available).
+**Run it online, without code:** [Sports Injury Reports - NFL, NBA, MLB, NHL Injury Status](https://apify.com/pipiagent/sports-injury-reports) on Apify (free plan available).
 
 ## Run it from Python
 

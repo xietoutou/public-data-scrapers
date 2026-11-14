@@ -26,8 +26,8 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Google Play Reviews Scraper](google-play-reviews-scraper/) | Play Store & Android App Reviews | $0.20 | [Run on Apify](https://apify.com/pipiagent/google-play-reviews-scraper) |
-| [App Store Reviews Scraper](app-store-reviews-scraper/) | Export iPhone & iOS Reviews to CSV | $0.25 | [Run on Apify](https://apify.com/pipiagent/app-store-reviews-scraper) |
+| [Google Play Store Reviews Scraper](google-play-reviews-scraper/) | Export Android App Reviews | $0.20 | [Run on Apify](https://apify.com/pipiagent/google-play-reviews-scraper) |
+| [App Store Reviews Scraper](app-store-reviews-scraper/) | iOS & Apple App Reviews by Country | $0.25 | [Run on Apify](https://apify.com/pipiagent/app-store-reviews-scraper) |
 
 ## News, newsletters and trends
 
@@ -49,7 +49,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [ESPN Scraper](espn-scraper/) | NBA & NFL Box Scores, Player Stats & Standings | $1.00 | [Run on Apify](https://apify.com/pipiagent/espn-scraper) |
-| [Sports Injury Reports](sports-injury-reports/) | NFL, NBA, MLB, NHL Injuries | $0.50 | [Run on Apify](https://apify.com/pipiagent/sports-injury-reports) |
+| [Sports Injury Reports](sports-injury-reports/) | NFL, NBA, MLB, NHL Injury Status | $0.50 | [Run on Apify](https://apify.com/pipiagent/sports-injury-reports) |
 
 ## Jobs
 
@@ -61,7 +61,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Ashby Jobs Scraper](ashby-jobs-scraper/) | All Jobs from Any jobs.ashbyhq.com Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/ashby-jobs-scraper) |
 | [Workday Jobs Scraper](workday-jobs-scraper/) | All Jobs from myworkdayjobs.com Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
 | [Remote Jobs Scraper](remote-jobs-scraper/) | Remote OK, We Work Remotely, Jobicy | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
-| [Arbeitsagentur Jobs Scraper](arbeitsagentur-jobs-scraper/) | German Jobs with Salaries | $1.00 | [Run on Apify](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) |
+| [Arbeitsagentur Jobs Scraper](arbeitsagentur-jobs-scraper/) | German Jobs from Bundesagentur | $1.00 | [Run on Apify](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) |
 
 ## E-commerce
 
@@ -69,14 +69,14 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 |---|---|---|---|
 | [Shopify Products Scraper](shopify-products-scraper/) | Prices, Variants, Stock & Images | $0.50 | [Run on Apify](https://apify.com/pipiagent/shopify-products-scraper) |
 | [AliExpress Search Scraper](aliexpress-search-scraper/) | Products, Prices, Orders & Ratings | $1.50 | [Run on Apify](https://apify.com/pipiagent/aliexpress-search-scraper) |
-| [Alibaba Search Scraper](alibaba-search-scraper/) | Wholesale Products, Prices & Suppliers | $1.50 | [Run on Apify](https://apify.com/pipiagent/alibaba-search-scraper) |
+| [Alibaba Search Scraper](alibaba-search-scraper/) | Wholesale Products & China Suppliers | $1.50 | [Run on Apify](https://apify.com/pipiagent/alibaba-search-scraper) |
 
 ## Leads, websites and domains
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [Website Contact Scraper](website-contact-scraper/) | Emails, Phones & Social Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-contact-scraper) |
-| [Website Email Extractor](website-email-extractor/) | Find Emails on Any Website List | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
+| [Website Email Extractor](website-email-extractor/) | Extract Emails from Website Lists | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
 | [Domain Checker](domain-checker/) | Bulk Availability, WHOIS (RDAP), DNS & SSL | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-checker) |
 | [Domain Availability Checker](domain-availability-checker/) | Bulk Domain Name Checker | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-availability-checker) |
 
@@ -85,7 +85,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [Weibo Scraper](weibo-scraper/) | Hot Search, Posts, Comments & User Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-scraper) |
-| [Weibo Hot Search Scraper](weibo-hot-search-scraper/) | Trending Topics in China | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-hot-search-scraper) |
+| [Weibo Hot Search Scraper](weibo-hot-search-scraper/) | Chinese Social Media Trending Topics | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-hot-search-scraper) |
 | [Weibo Comments Scraper](weibo-comments-scraper/) | Comments & Replies of Any Post | $5.00 | [Run on Apify](https://apify.com/pipiagent/weibo-comments-scraper) |
 | [Bilibili Scraper](bilibili-scraper/) | Videos, Creators, Comments & Danmaku | $3.00 | [Run on Apify](https://apify.com/pipiagent/bilibili-scraper) |
 | [Bilibili Search Scraper](bilibili-search-scraper/) | Find Videos by Keyword | $3.00 | [Run on Apify](https://apify.com/pipiagent/bilibili-search-scraper) |
@@ -102,6 +102,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [How to Compare iOS App Store Reviews Across Countries After a Release (Python + pandas)](https://dev.to/frank0306_2838afa1791aac9/how-to-compare-ios-app-store-reviews-across-countries-after-a-release-python-pandas-411m)
 - [How to Export a YouTube Channel's Full Upload History and Find Its Best-Performing Topics](https://dev.to/frank0306_2838afa1791aac9/how-to-export-a-youtube-channels-full-upload-history-and-find-its-best-performing-topics-2i1e)
 - [Track Kalshi Prediction Market Odds in Python (Fed Rate Probabilities, Volume and Price History)](https://dev.to/frank0306_2838afa1791aac9/track-kalshi-prediction-market-odds-in-python-fed-rate-probabilities-volume-and-price-history-2iip)
+- [Build a Daily Remote Job Alert in Python from Remote OK, We Work Remotely, Jobicy and Working Nomads](https://dev.to/frank0306_2838afa1791aac9/build-a-daily-remote-job-alert-in-python-from-remote-ok-we-work-remotely-jobicy-and-working-nomads-5dfb)
 
 ## Questions and bugs
 

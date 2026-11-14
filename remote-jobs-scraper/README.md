@@ -40,6 +40,8 @@ python example.py
 
 Fields that a board does not provide are `null`, so every record has the same columns.
 
+**Step-by-step tutorial:** [Build a Daily Remote Job Alert in Python from Remote OK, We Work Remotely, Jobicy and Working Nomads](https://dev.to/frank0306_2838afa1791aac9/build-a-daily-remote-job-alert-in-python-from-remote-ok-we-work-remotely-jobicy-and-working-nomads-5dfb)
+
 ## Input examples
 
 Python and data engineering jobs open worldwide, posted in the last 7 days:

@@ -10,7 +10,7 @@ Use it to follow public attention in China, to spot a brand or a crisis the mome
 - **No login, no cookie and no proxy needed.**
 - **Low price.** $5 per 1,000 results, about $0.25 for a full chart.
 
-**Run it online, without code:** [Weibo Hot Search Scraper - Trending Topics in China](https://apify.com/pipiagent/weibo-hot-search-scraper) on Apify (free plan available).
+**Run it online, without code:** [Weibo Hot Search Scraper - Chinese Social Media Trending Topics](https://apify.com/pipiagent/weibo-hot-search-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
