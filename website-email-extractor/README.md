@@ -9,7 +9,7 @@ Turn a list of websites or domains into a list of email addresses. Paste the web
 - **Phones and social profiles included** at no extra cost: phone numbers in international format, LinkedIn, Facebook, Instagram, X and more.
 - **Low price.** $5 per 1,000 websites with an email.
 
-**Run it online, without code:** [Website Email Extractor - Extract Emails from Website Lists](https://apify.com/pipiagent/website-email-extractor) on Apify (free plan available).
+**Run it online, without code:** [Website Email Extractor - Find Emails on Any Website List](https://apify.com/pipiagent/website-email-extractor) on Apify (free plan available).
 
 ## Run it from Python
 

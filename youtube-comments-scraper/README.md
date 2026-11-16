@@ -10,7 +10,7 @@ Use it for sentiment analysis, product and brand research, finding questions you
 - **No API key, no login and no proxy setup.**
 - **Low price.** $1 per 1,000 comments.
 
-**Run it online, without code:** [YouTube Comments Scraper - Comments & Replies of Any Video](https://apify.com/pipiagent/youtube-comments-scraper) on Apify (free plan available).
+**Run it online, without code:** [YouTube Comments Scraper - Export Video Comments & Replies](https://apify.com/pipiagent/youtube-comments-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

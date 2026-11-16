@@ -1,4 +1,4 @@
-# Shopify Products Scraper
+# Shopify Store Scraper
 
 Get every product of any [Shopify](https://www.shopify.com) store: title, vendor, product type, tags, prices and sale prices, variants with SKU and stock, options, images and description. Paste a store, a collection or a product link and download one clean table.
 
@@ -12,7 +12,7 @@ Use it for competitor price monitoring, stock and restock tracking, product rese
 - **No login, no API key, no proxy.** The Actor reads the public product list that every Shopify store publishes.
 - **Low price.** $0.50 per 1,000 results.
 
-**Run it online, without code:** [Shopify Products Scraper - Prices, Variants, Stock & Images](https://apify.com/pipiagent/shopify-products-scraper) on Apify (free plan available).
+**Run it online, without code:** [Shopify Store Scraper - Products, Prices, Variants & Stock](https://apify.com/pipiagent/shopify-products-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
@@ -41,6 +41,8 @@ python example.py
 | `description`, `descriptionHtml` | | Plain text by default, HTML optional |
 
 In **Variant** mode every row has the product fields plus `variantId`, `variantTitle`, `sku`, `price`, `compareAtPrice`, `isAvailable`, `option1Name`/`option1` to `option3Name`/`option3`, `weightGrams` and `variantImage`.
+
+**Step-by-step tutorial:** [Track Competitor Prices and Stock on Any Shopify Store, One Row per Size and Color](https://dev.to/frank0306_2838afa1791aac9/track-competitor-prices-and-stock-on-any-shopify-store-one-row-per-size-and-color-44md)
 
 ## Input examples
 
@@ -139,4 +141,4 @@ Set a maximum charge per run in the run options and the Actor stops when it is r
 
 ---
 
-Full documentation, all input options and a free trial: **[Shopify Products Scraper on Apify](https://apify.com/pipiagent/shopify-products-scraper)**
+Full documentation, all input options and a free trial: **[Shopify Store Scraper on Apify](https://apify.com/pipiagent/shopify-products-scraper)**

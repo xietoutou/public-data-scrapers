@@ -1,4 +1,4 @@
-"""Shopify Products Scraper: run it from Python and save the results to a CSV file.
+"""Shopify Store Scraper: run it from Python and save the results to a CSV file.
 
 Store page: https://apify.com/pipiagent/shopify-products-scraper
 Setup: pip install apify-client

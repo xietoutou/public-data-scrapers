@@ -9,7 +9,7 @@ Get every open job straight from a company's own career site. Paste the job page
 - **No login and no proxy needed.**
 - **Low price.** $1.00 per 1,000 jobs.
 
-**Run it online, without code:** [Career Site Jobs Scraper - Greenhouse, Lever, Ashby, Workday](https://apify.com/pipiagent/career-site-jobs-scraper) on Apify (free plan available).
+**Run it online, without code:** [Career Site Jobs Scraper - ATS Job Postings: Greenhouse, Lever](https://apify.com/pipiagent/career-site-jobs-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

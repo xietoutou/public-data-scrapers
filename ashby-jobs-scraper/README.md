@@ -9,7 +9,7 @@ Get every open job from companies that hire on [Ashby](https://www.ashbyhq.com),
 - **No login, no API key and no proxy needed.**
 - **Low price.** $1.00 per 1,000 jobs.
 
-**Run it online, without code:** [Ashby Jobs Scraper - All Jobs from Any jobs.ashbyhq.com Board](https://apify.com/pipiagent/ashby-jobs-scraper) on Apify (free plan available).
+**Run it online, without code:** [Ashby Jobs Scraper - Startup & Tech Jobs from jobs.ashbyhq.com](https://apify.com/pipiagent/ashby-jobs-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

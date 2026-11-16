@@ -9,7 +9,7 @@ Get every open job from companies whose career site runs on [Workday](https://ww
 - **No login, no API key and no proxy needed.**
 - **Low price.** $1.00 per 1,000 jobs.
 
-**Run it online, without code:** [Workday Jobs Scraper - All Jobs from myworkdayjobs.com Sites](https://apify.com/pipiagent/workday-jobs-scraper) on Apify (free plan available).
+**Run it online, without code:** [Workday Jobs Scraper - Job Postings from Workday Career Sites](https://apify.com/pipiagent/workday-jobs-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

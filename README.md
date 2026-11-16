@@ -14,13 +14,13 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [YouTube Scraper](youtube-scraper/) | Search, Channel Videos, Comments & Details | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-scraper) |
-| [YouTube Search Scraper](youtube-search-scraper/) | Videos by Keyword, Date & Views | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-search-scraper) |
+| [YouTube Scraper](youtube-scraper/) | Video Details, Search, Channels & Comments | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-scraper) |
+| [YouTube Search Scraper](youtube-search-scraper/) | Video Search Results by Keyword | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-search-scraper) |
 | [YouTube Channel Videos Scraper](youtube-channel-videos-scraper/) | All Uploads with Stats | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-channel-videos-scraper) |
 | [YouTube Shorts Scraper](youtube-shorts-scraper/) | Views, Likes, Channels & Hashtags | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-shorts-scraper) |
 | [YouTube Playlist Scraper](youtube-playlist-scraper/) | Export Playlist Videos to CSV | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-playlist-scraper) |
-| [YouTube Comments Scraper](youtube-comments-scraper/) | Comments & Replies of Any Video | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-comments-scraper) |
-| [Telegram Channel Scraper](telegram-channel-scraper/) | Posts, Messages, Views & Reactions | $1.00 | [Run on Apify](https://apify.com/pipiagent/telegram-channel-scraper) |
+| [YouTube Comments Scraper](youtube-comments-scraper/) | Export Video Comments & Replies | $1.00 | [Run on Apify](https://apify.com/pipiagent/youtube-comments-scraper) |
+| [Telegram Channel Scraper](telegram-channel-scraper/) | Export Posts, Views & Reactions | $1.00 | [Run on Apify](https://apify.com/pipiagent/telegram-channel-scraper) |
 
 ## App reviews
 
@@ -33,8 +33,8 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Google News Scraper](google-news-scraper/) | Search, Topics, Date Range & Real Links | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-news-scraper) |
-| [Google Trends Scraper](google-trends-scraper/) | Interest, Regions, Related & Trending | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-trends-scraper) |
+| [Google News Scraper](google-news-scraper/) | News Headlines, Topics, Dates & Links | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-news-scraper) |
+| [Google Trends Scraper](google-trends-scraper/) | Keyword Trends, Related & Trending | $1.50 | [Run on Apify](https://apify.com/pipiagent/google-trends-scraper) |
 | [Substack Scraper](substack-scraper/) | Posts, Comments, Leaderboards & Subscribers | $1.00 | [Run on Apify](https://apify.com/pipiagent/substack-scraper) |
 
 ## Finance and prediction markets
@@ -55,29 +55,35 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Career Site Jobs Scraper](career-site-jobs-scraper/) | Greenhouse, Lever, Ashby, Workday | $1.00 | [Run on Apify](https://apify.com/pipiagent/career-site-jobs-scraper) |
+| [Career Site Jobs Scraper](career-site-jobs-scraper/) | ATS Job Postings: Greenhouse, Lever | $1.00 | [Run on Apify](https://apify.com/pipiagent/career-site-jobs-scraper) |
 | [Greenhouse Jobs Scraper](greenhouse-jobs-scraper/) | All Jobs from Any Greenhouse Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/greenhouse-jobs-scraper) |
 | [Lever Jobs Scraper](lever-jobs-scraper/) | All Jobs from Any jobs.lever.co Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/lever-jobs-scraper) |
-| [Ashby Jobs Scraper](ashby-jobs-scraper/) | All Jobs from Any jobs.ashbyhq.com Board | $1.00 | [Run on Apify](https://apify.com/pipiagent/ashby-jobs-scraper) |
-| [Workday Jobs Scraper](workday-jobs-scraper/) | All Jobs from myworkdayjobs.com Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
-| [Remote Jobs Scraper](remote-jobs-scraper/) | Remote OK, We Work Remotely, Jobicy | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
+| [Ashby Jobs Scraper](ashby-jobs-scraper/) | Startup & Tech Jobs from jobs.ashbyhq.com | $1.00 | [Run on Apify](https://apify.com/pipiagent/ashby-jobs-scraper) |
+| [Workday Jobs Scraper](workday-jobs-scraper/) | Job Postings from Workday Career Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
+| [Remote Jobs Scraper](remote-jobs-scraper/) | Work From Home Jobs from Remote OK & More | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
 | [Arbeitsagentur Jobs Scraper](arbeitsagentur-jobs-scraper/) | German Jobs from Bundesagentur | $1.00 | [Run on Apify](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) |
 
 ## E-commerce
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Shopify Products Scraper](shopify-products-scraper/) | Prices, Variants, Stock & Images | $0.50 | [Run on Apify](https://apify.com/pipiagent/shopify-products-scraper) |
-| [AliExpress Search Scraper](aliexpress-search-scraper/) | Products, Prices, Orders & Ratings | $1.50 | [Run on Apify](https://apify.com/pipiagent/aliexpress-search-scraper) |
+| [Shopify Store Scraper](shopify-products-scraper/) | Products, Prices, Variants & Stock | $0.50 | [Run on Apify](https://apify.com/pipiagent/shopify-products-scraper) |
+| [AliExpress Search Scraper](aliexpress-search-scraper/) | Product Data for Dropshipping | $1.50 | [Run on Apify](https://apify.com/pipiagent/aliexpress-search-scraper) |
 | [Alibaba Search Scraper](alibaba-search-scraper/) | Wholesale Products & China Suppliers | $1.50 | [Run on Apify](https://apify.com/pipiagent/alibaba-search-scraper) |
+
+## Advertising
+
+| Scraper | What you get | Price per 1,000 results | Store |
+|---|---|---|---|
+| [Google Ads Transparency Scraper](google-ads-transparency-scraper/) | Competitor Ads by Domain | $1.00 | [Run on Apify](https://apify.com/pipiagent/google-ads-transparency-scraper) |
 
 ## Leads, websites and domains
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
-| [Website Contact Scraper](website-contact-scraper/) | Emails, Phones & Social Profiles | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-contact-scraper) |
-| [Website Email Extractor](website-email-extractor/) | Extract Emails from Website Lists | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
-| [Domain Checker](domain-checker/) | Bulk Availability, WHOIS (RDAP), DNS & SSL | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-checker) |
+| [Website Contact Scraper](website-contact-scraper/) | Emails, Phone Numbers & Social Links | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-contact-scraper) |
+| [Website Email Extractor](website-email-extractor/) | Find Emails on Any Website List | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
+| [Domain Checker](domain-checker/) | Bulk WHOIS & DNS Lookup, SSL, Availability | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-checker) |
 | [Domain Availability Checker](domain-availability-checker/) | Bulk Domain Name Checker | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-availability-checker) |
 
 ## Chinese platforms
@@ -103,6 +109,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [How to Export a YouTube Channel's Full Upload History and Find Its Best-Performing Topics](https://dev.to/frank0306_2838afa1791aac9/how-to-export-a-youtube-channels-full-upload-history-and-find-its-best-performing-topics-2i1e)
 - [Track Kalshi Prediction Market Odds in Python (Fed Rate Probabilities, Volume and Price History)](https://dev.to/frank0306_2838afa1791aac9/track-kalshi-prediction-market-odds-in-python-fed-rate-probabilities-volume-and-price-history-2iip)
 - [Build a Daily Remote Job Alert in Python from Remote OK, We Work Remotely, Jobicy and Working Nomads](https://dev.to/frank0306_2838afa1791aac9/build-a-daily-remote-job-alert-in-python-from-remote-ok-we-work-remotely-jobicy-and-working-nomads-5dfb)
+- [Track Competitor Prices and Stock on Any Shopify Store, One Row per Size and Color](https://dev.to/frank0306_2838afa1791aac9/track-competitor-prices-and-stock-on-any-shopify-store-one-row-per-size-and-color-44md)
 
 ## Questions and bugs
 

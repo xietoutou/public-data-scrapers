@@ -9,7 +9,7 @@ Extract products from [AliExpress](https://www.aliexpress.com) search results, t
 - **No login needed.** Press Start and get data.
 - **Low price.** $1.50 per 1,000 results.
 
-**Run it online, without code:** [AliExpress Search Scraper - Products, Prices, Orders & Ratings](https://apify.com/pipiagent/aliexpress-search-scraper) on Apify (free plan available).
+**Run it online, without code:** [AliExpress Search Scraper - Product Data for Dropshipping](https://apify.com/pipiagent/aliexpress-search-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

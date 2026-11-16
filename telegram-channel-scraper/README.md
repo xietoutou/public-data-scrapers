@@ -8,7 +8,7 @@ Extract posts and channel facts from public [Telegram](https://telegram.org) cha
 - **Clean output.** English field names like `views`, `postedAt` and `subscribers`, numbers as numbers ("12.3K" becomes 12300), dates in ISO format. Text stays in the original language.
 - **Low price.** $1 per 1,000 results.
 
-**Run it online, without code:** [Telegram Channel Scraper - Posts, Messages, Views & Reactions](https://apify.com/pipiagent/telegram-channel-scraper) on Apify (free plan available).
+**Run it online, without code:** [Telegram Channel Scraper - Export Posts, Views & Reactions](https://apify.com/pipiagent/telegram-channel-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

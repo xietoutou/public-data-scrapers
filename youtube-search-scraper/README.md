@@ -10,7 +10,7 @@ Use it for keyword and SEO research, to see who ranks for a topic, to find creat
 - **No API key, no login and no proxy setup.**
 - **Low price.** $1 per 1,000 videos.
 
-**Run it online, without code:** [YouTube Search Scraper - Videos by Keyword, Date & Views](https://apify.com/pipiagent/youtube-search-scraper) on Apify (free plan available).
+**Run it online, without code:** [YouTube Search Scraper - Video Search Results by Keyword](https://apify.com/pipiagent/youtube-search-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

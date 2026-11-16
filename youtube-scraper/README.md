@@ -7,7 +7,7 @@ Extract public data from [YouTube](https://www.youtube.com) without an API key a
 - **No API key, no login and no proxy setup.** Press Start and get data.
 - **Low price.** $1 per 1,000 results.
 
-**Run it online, without code:** [YouTube Scraper - Search, Channel Videos, Comments & Details](https://apify.com/pipiagent/youtube-scraper) on Apify (free plan available).
+**Run it online, without code:** [YouTube Scraper - Video Details, Search, Channels & Comments](https://apify.com/pipiagent/youtube-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

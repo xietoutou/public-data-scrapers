@@ -11,7 +11,7 @@ Use it for job alerts and job search, remote job newsletters and communities, re
 - **No login, no API key, no proxy.** The Actor reads the public feeds that the boards publish for reuse.
 - **Low price.** $1.00 per 1,000 jobs.
 
-**Run it online, without code:** [Remote Jobs Scraper - Remote OK, We Work Remotely, Jobicy](https://apify.com/pipiagent/remote-jobs-scraper) on Apify (free plan available).
+**Run it online, without code:** [Remote Jobs Scraper - Work From Home Jobs from Remote OK & More](https://apify.com/pipiagent/remote-jobs-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

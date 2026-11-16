@@ -9,7 +9,7 @@ Extract news articles from [Google News](https://news.google.com): search by key
 - **No login, no API key and no proxy needed.** Press Start and get data.
 - **Low price.** $1.50 per 1,000 results.
 
-**Run it online, without code:** [Google News Scraper - Search, Topics, Date Range & Real Links](https://apify.com/pipiagent/google-news-scraper) on Apify (free plan available).
+**Run it online, without code:** [Google News Scraper - News Headlines, Topics, Dates & Links](https://apify.com/pipiagent/google-news-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

@@ -9,7 +9,7 @@ Find email addresses, phone numbers and social media profiles on any list of com
 - **Clean data.** Phone numbers in international format (+4930...), lowercased emails, junk such as `logo@2x.png` or `user@example.com` removed.
 - **Low price.** $5 per 1,000 websites with contacts. The number of pages read per website does not change the price.
 
-**Run it online, without code:** [Website Contact Scraper - Emails, Phones & Social Profiles](https://apify.com/pipiagent/website-contact-scraper) on Apify (free plan available).
+**Run it online, without code:** [Website Contact Scraper - Emails, Phone Numbers & Social Links](https://apify.com/pipiagent/website-contact-scraper) on Apify (free plan available).
 
 ## Run it from Python
 

@@ -8,7 +8,7 @@ Check a list of domains in one run and get one clean row per domain: is it avail
 - **No API key, no login, no proxy.**
 - **Low price.** $2 per 1,000 domains. Invalid inputs are free.
 
-**Run it online, without code:** [Domain Checker - Bulk Availability, WHOIS (RDAP), DNS & SSL](https://apify.com/pipiagent/domain-checker) on Apify (free plan available).
+**Run it online, without code:** [Domain Checker - Bulk WHOIS & DNS Lookup, SSL, Availability](https://apify.com/pipiagent/domain-checker) on Apify (free plan available).
 
 ## Run it from Python
 

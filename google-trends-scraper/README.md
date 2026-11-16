@@ -9,7 +9,7 @@ Get data from [Google Trends](https://trends.google.com) without copying charts 
 - **No login, no API key, no proxy setup.**
 - **Fair price.** $1.50 per 1,000 results, and one result holds a whole timeline or a whole region table, not one data point.
 
-**Run it online, without code:** [Google Trends Scraper - Interest, Regions, Related & Trending](https://apify.com/pipiagent/google-trends-scraper) on Apify (free plan available).
+**Run it online, without code:** [Google Trends Scraper - Keyword Trends, Related & Trending](https://apify.com/pipiagent/google-trends-scraper) on Apify (free plan available).
 
 ## Run it from Python
 
