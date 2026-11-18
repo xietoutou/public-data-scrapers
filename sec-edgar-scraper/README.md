@@ -49,6 +49,8 @@ Company, CIK, form type, filing date, period, accession number, the document tha
 
 One row per company and period: `period` (CY2025 or CY2026Q2), `periodStart`, `periodEnd`, `fiscalYear`, `fiscalPeriod`, `form`, `filedAt`, and the numbers `revenue`, `costOfRevenue`, `grossProfit`, `researchAndDevelopment`, `sellingGeneralAdministrative`, `operatingIncome`, `netIncome`, `epsBasic`, `epsDiluted`, `dilutedSharesOutstanding`, `operatingCashFlow`, `capitalExpenditure`, `totalAssets`, `totalLiabilities`, `stockholdersEquity`, `cashAndEquivalents`, `longTermDebt`. All amounts are in US dollars.
 
+**Step-by-step tutorial:** [Get Revenue, Net Income and EPS From SEC EDGAR Into pandas for Any US Public Company](https://dev.to/frank0306_2838afa1791aac9/get-revenue-net-income-and-eps-from-sec-edgar-into-pandas-for-any-us-public-company-p99)
+
 ## Input examples
 
 The latest 8-K filings of three companies:
