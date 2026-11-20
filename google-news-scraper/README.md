@@ -44,6 +44,8 @@ Every article has these fields:
 | `searchQuery`, `topic`, `location` | What found the article |
 | `language`, `country`, `scrapedAt` | Edition and time of scraping |
 
+**Step-by-step tutorial:** [Google News Monitoring for a Brand or Topic: Daily Headlines into a Spreadsheet with Python](https://dev.to/frank0306_2838afa1791aac9/google-news-monitoring-for-a-brand-or-topic-daily-headlines-into-a-spreadsheet-with-python-h8a)
+
 ## Input examples
 
 Search the newest articles about a brand:
