@@ -55,6 +55,8 @@ One result is one job posting.
 | Teamtailor | yes | yes | yes | no | yes |
 | BambooHR | yes | yes | yes | as text, when published | with descriptions on |
 
+**Step-by-step tutorial:** [Which Companies Are Hiring Data Engineers? Track Job Openings on Greenhouse, Lever, Ashby and Workday Career Sites with Python](https://dev.to/frank0306_2838afa1791aac9/which-companies-are-hiring-data-engineers-track-job-openings-on-greenhouse-lever-ashby-and-3521)
+
 ## Input examples
 
 The 10 newest jobs at four companies on four different systems:
