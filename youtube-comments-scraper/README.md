@@ -10,6 +10,8 @@ Use it for sentiment analysis, product and brand research, finding questions you
 - **No API key, no login and no proxy setup.**
 - **Low price.** $1 per 1,000 comments.
 
+**Step-by-step tutorial:** [Export YouTube Comments to CSV for Sentiment Analysis (Python, pandas and VADER)](https://dev.to/frank0306_2838afa1791aac9/export-youtube-comments-to-csv-for-sentiment-analysis-python-pandas-and-vader-4kah)
+
 **Run it online, without code:** [YouTube Comments Scraper - Export Video Comments & Replies](https://apify.com/pipiagent/youtube-comments-scraper) on Apify (free plan available).
 
 ## Run it from Python

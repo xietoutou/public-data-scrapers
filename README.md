@@ -113,6 +113,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [Get Revenue, Net Income and EPS From SEC EDGAR Into pandas for Any US Public Company](https://dev.to/frank0306_2838afa1791aac9/get-revenue-net-income-and-eps-from-sec-edgar-into-pandas-for-any-us-public-company-p99)
 - [Google News Monitoring for a Brand or Topic: Daily Headlines into a Spreadsheet with Python](https://dev.to/frank0306_2838afa1791aac9/google-news-monitoring-for-a-brand-or-topic-daily-headlines-into-a-spreadsheet-with-python-h8a)
 - [Which Companies Are Hiring Data Engineers? Track Job Openings on Greenhouse, Lever, Ashby and Workday Career Sites with Python](https://dev.to/frank0306_2838afa1791aac9/which-companies-are-hiring-data-engineers-track-job-openings-on-greenhouse-lever-ashby-and-3521)
+- [Export YouTube Comments to CSV for Sentiment Analysis (Python, pandas and VADER)](https://dev.to/frank0306_2838afa1791aac9/export-youtube-comments-to-csv-for-sentiment-analysis-python-pandas-and-vader-4kah)
 
 ## Questions and bugs
 
