@@ -1,0 +1,13 @@
+{
+    "mode": "search",
+    "searchTerms": [
+        "ポケモンカード"
+    ],
+    "minPrice": 3000,
+    "maxPrice": 20000,
+    "listingType": "buyNow",
+    "conditions": [
+        "NEW"
+    ],
+    "maxItems": 200
+}

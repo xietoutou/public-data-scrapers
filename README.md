@@ -42,6 +42,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [SEC EDGAR Scraper](sec-edgar-scraper/) | Filings, Full-Text Search & XBRL Financials | $1.00 | [Run on Apify](https://apify.com/pipiagent/sec-edgar-scraper) |
+| [ASX Announcements Scraper](asx-announcements-scraper/) | Company Announcements & PDFs | $3.00 | [Run on Apify](https://apify.com/pipiagent/asx-announcements-scraper) |
 | [Kalshi Scraper](kalshi-markets-scraper/) | Prediction Market Odds, Order Books & Trades | $1.00 | [Run on Apify](https://apify.com/pipiagent/kalshi-markets-scraper) |
 
 ## Sports
@@ -62,14 +63,34 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Workday Jobs Scraper](workday-jobs-scraper/) | Job Postings from Workday Career Sites | $1.00 | [Run on Apify](https://apify.com/pipiagent/workday-jobs-scraper) |
 | [Remote Jobs Scraper](remote-jobs-scraper/) | Work From Home Jobs from Remote OK & More | $1.00 | [Run on Apify](https://apify.com/pipiagent/remote-jobs-scraper) |
 | [Arbeitsagentur Jobs Scraper](arbeitsagentur-jobs-scraper/) | German Jobs from Bundesagentur | $1.00 | [Run on Apify](https://apify.com/pipiagent/arbeitsagentur-jobs-scraper) |
+| [Work at a Startup Jobs Scraper](workatastartup-jobs-scraper/) | Y Combinator Startup Jobs | $0.60 | [Run on Apify](https://apify.com/pipiagent/workatastartup-jobs-scraper) |
+| [Himalayas Jobs Scraper](himalayas-jobs-scraper/) | Remote Jobs with Salaries | $1.00 | [Run on Apify](https://apify.com/pipiagent/himalayas-jobs-scraper) |
+| [Hirist Jobs Scraper](hirist-jobs-scraper/) | IT & Tech Jobs India (hirist.tech) | $1.80 | [Run on Apify](https://apify.com/pipiagent/hirist-jobs-scraper) |
+| [IIMJobs Jobs Scraper](iimjobs-jobs-scraper/) | MBA, Finance & Management Jobs India | $1.20 | [Run on Apify](https://apify.com/pipiagent/iimjobs-jobs-scraper) |
+| [Instahyre Jobs Scraper](instahyre-jobs-scraper/) | India Tech, Sales & Operations Jobs | $1.00 | [Run on Apify](https://apify.com/pipiagent/instahyre-jobs-scraper) |
 
-## E-commerce
+## E-commerce and retail
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
 | [Shopify Store Scraper](shopify-products-scraper/) | Products, Prices, Variants & Stock | $0.50 | [Run on Apify](https://apify.com/pipiagent/shopify-products-scraper) |
 | [AliExpress Search Scraper](aliexpress-search-scraper/) | Product Data for Dropshipping | $1.50 | [Run on Apify](https://apify.com/pipiagent/aliexpress-search-scraper) |
 | [Alibaba Search Scraper](alibaba-search-scraper/) | Wholesale Products & China Suppliers | $1.50 | [Run on Apify](https://apify.com/pipiagent/alibaba-search-scraper) |
+| [Yahoo! Auctions Japan Scraper](yahoo-auctions-japan-scraper/) | Listings & Sold Prices | $1.20 | [Run on Apify](https://apify.com/pipiagent/yahoo-auctions-japan-scraper) |
+| [kaufDA Brochures Scraper](kaufda-brochures-scraper/) | German Prospekte & Weekly Offers | $1.00 | [Run on Apify](https://apify.com/pipiagent/kaufda-brochures-scraper) |
+
+## Real estate
+
+| Scraper | What you get | Price per 1,000 results | Store |
+|---|---|---|---|
+| [NewHomeSource Scraper](newhomesource-scraper/) | New Construction Homes & Builders | $1.00 | [Run on Apify](https://apify.com/pipiagent/newhomesource-scraper) |
+
+## Government and legal
+
+| Scraper | What you get | Price per 1,000 results | Store |
+|---|---|---|---|
+| [BidNet Direct Scraper](bidnet-direct-scraper/) | US Government Bids, RFPs & RFQs | $3.00 | [Run on Apify](https://apify.com/pipiagent/bidnet-direct-scraper) |
+| [CENDOJ Scraper](cendoj-scraper/) | Spanish Case Law (Jurisprudencia) Search | $0.60 | [Run on Apify](https://apify.com/pipiagent/cendoj-scraper) |
 
 ## Advertising
 
@@ -77,7 +98,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 |---|---|---|---|
 | [Google Ads Transparency Scraper](google-ads-transparency-scraper/) | Competitor Ads by Domain | $1.00 | [Run on Apify](https://apify.com/pipiagent/google-ads-transparency-scraper) |
 
-## Leads, websites and domains
+## Leads, websites and places
 
 | Scraper | What you get | Price per 1,000 results | Store |
 |---|---|---|---|
@@ -85,6 +106,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 | [Website Email Extractor](website-email-extractor/) | Find Emails on Any Website List | $5.00 | [Run on Apify](https://apify.com/pipiagent/website-email-extractor) |
 | [Domain Checker](domain-checker/) | Bulk WHOIS & DNS Lookup, SSL, Availability | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-checker) |
 | [Domain Availability Checker](domain-availability-checker/) | Bulk Domain Name Checker | $2.00 | [Run on Apify](https://apify.com/pipiagent/domain-availability-checker) |
+| [OpenStreetMap POI Scraper](openstreetmap-poi-scraper/) | Places, Businesses & Leads | $1.00 | [Run on Apify](https://apify.com/pipiagent/openstreetmap-poi-scraper) |
 
 ## Chinese platforms
 
@@ -114,6 +136,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [Google News Monitoring for a Brand or Topic: Daily Headlines into a Spreadsheet with Python](https://dev.to/frank0306_2838afa1791aac9/google-news-monitoring-for-a-brand-or-topic-daily-headlines-into-a-spreadsheet-with-python-h8a)
 - [Which Companies Are Hiring Data Engineers? Track Job Openings on Greenhouse, Lever, Ashby and Workday Career Sites with Python](https://dev.to/frank0306_2838afa1791aac9/which-companies-are-hiring-data-engineers-track-job-openings-on-greenhouse-lever-ashby-and-3521)
 - [Export YouTube Comments to CSV for Sentiment Analysis (Python, pandas and VADER)](https://dev.to/frank0306_2838afa1791aac9/export-youtube-comments-to-csv-for-sentiment-analysis-python-pandas-and-vader-4kah)
+- [Google Trends Data for Keyword Research - Export Interest Over Time and Rising Queries to CSV and pandas](https://dev.to/frank0306_2838afa1791aac9/google-trends-data-for-keyword-research-export-interest-over-time-and-rising-queries-to-csv-and-2mi4)
 
 ## Questions and bugs
 

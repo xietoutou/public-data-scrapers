@@ -28,9 +28,11 @@ python example.py
 | Interest over time | One search term in one location and time range | Average, peak value and date, latest value, step size, full timeline of 0-100 values with dates |
 | Interest by region | One search term in one location | Top region, number of regions, every country, state, city or US metro with its 0-100 value |
 | Related queries | One search term | Up to 25 top queries with their 0-100 value, up to 25 rising queries with growth % or "Breakout" |
-| Trending now | One trending search in one country | Search volume, increase %, start and end time, still trending or not, categories, related searches, up to 5 news articles with picture |
+| Trending now | One trending search in one country | Search volume, increase %, start and end time, still trending or not, categories, related searches, and for the newest trends (about 10 per country) up to 3 news articles with picture |
 
 Every keyword result also repeats the settings it was collected with: `searchTerm`, `comparedWith`, `geo`, `timeRange`, the exact `startDate` and `endDate` Google used, `category` and `property` (web, images, news, YouTube or shopping search), and a link to the same view on Google Trends.
+
+**Step-by-step tutorial:** [Google Trends Data for Keyword Research - Export Interest Over Time and Rising Queries to CSV and pandas](https://dev.to/frank0306_2838afa1791aac9/google-trends-data-for-keyword-research-export-interest-over-time-and-rising-queries-to-csv-and-2mi4)
 
 ## Input examples
 
@@ -188,13 +190,15 @@ A trending search:
             "title": "Susan Saint James, Emmy-winning actor of ‘McMillan & Wife’ and ‘Kate & Allie,’ dies at 80",
             "url": "https://www.cnn.com/2026/10/27/entertainment/susan-saint-james-death",
             "source": "CNN",
-            "publishedAt": "2026-10-27T16:32:09Z",
+            "publishedAt": null,
             "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzadYc2xDz--qyHNNsMv_MPsot657dCHBn4-oQaHcoI166wXBBCXoellKcf8I"
         }
     ],
     "scrapedAt": "2026-10-27T21:48:55Z"
 }
 ```
+
+Google publishes news articles only for the newest trending searches of a country (about 10, up to 3 articles each), so the other trending searches have an empty `newsArticles` list. Google does not give the article publish time, so `publishedAt` is empty.
 
 In CSV and Excel exports the `timeline`, `regions`, `top` and `rising` lists become numbered columns (for example `timeline/0/date`, `timeline/0/value`). The summary columns are always there for quick sorting and filtering.
 
