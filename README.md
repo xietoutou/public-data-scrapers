@@ -91,6 +91,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 |---|---|---|---|
 | [BidNet Direct Scraper](bidnet-direct-scraper/) | US Government Bids, RFPs & RFQs | $3.00 | [Run on Apify](https://apify.com/pipiagent/bidnet-direct-scraper) |
 | [CENDOJ Scraper](cendoj-scraper/) | Spanish Case Law (Jurisprudencia) Search | $0.60 | [Run on Apify](https://apify.com/pipiagent/cendoj-scraper) |
+| [Handelsregister Scraper](handelsregister-scraper/) | German Company Register Search | $4.00 | [Run on Apify](https://apify.com/pipiagent/handelsregister-scraper) |
 
 ## Advertising
 
@@ -137,6 +138,7 @@ Prefer clicking? Every scraper also runs from its Store page with a form, no cod
 - [Which Companies Are Hiring Data Engineers? Track Job Openings on Greenhouse, Lever, Ashby and Workday Career Sites with Python](https://dev.to/frank0306_2838afa1791aac9/which-companies-are-hiring-data-engineers-track-job-openings-on-greenhouse-lever-ashby-and-3521)
 - [Export YouTube Comments to CSV for Sentiment Analysis (Python, pandas and VADER)](https://dev.to/frank0306_2838afa1791aac9/export-youtube-comments-to-csv-for-sentiment-analysis-python-pandas-and-vader-4kah)
 - [Google Trends Data for Keyword Research - Export Interest Over Time and Rising Queries to CSV and pandas](https://dev.to/frank0306_2838afa1791aac9/google-trends-data-for-keyword-research-export-interest-over-time-and-rising-queries-to-csv-and-2mi4)
+- [Find Emails, Phone Numbers and Social Links from a List of Company Websites (Lead List with Python)](https://dev.to/frank0306_2838afa1791aac9/find-emails-phone-numbers-and-social-links-from-a-list-of-company-websites-lead-list-with-python-57jm)
 
 ## Questions and bugs
 

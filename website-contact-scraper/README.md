@@ -38,6 +38,8 @@ python example.py
 | `pagesCrawled` | Every page the Actor read |
 | `status` | `ok`, `noContacts`, `unreachable` or `blocked` |
 
+**Step-by-step tutorial:** [Find Emails, Phone Numbers and Social Links from a List of Company Websites (Lead List with Python)](https://dev.to/frank0306_2838afa1791aac9/find-emails-phone-numbers-and-social-links-from-a-list-of-company-websites-lead-list-with-python-57jm)
+
 ## Input examples
 
 Scan a list of company websites with the default settings:
